@@ -1,4 +1,4 @@
-# 255-Team-13
+
 
 ## 1. Message Length of Ham and Spam messages 
 <img width="818" alt="Screen Shot 2022-05-23 at 9 30 18 PM" src="https://user-images.githubusercontent.com/64269342/169949765-275e8d58-c627-481d-b8a8-e18315426407.png">
